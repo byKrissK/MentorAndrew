@@ -67,7 +67,8 @@ h2 {
     ;
 }
 
-.card:hover {
+.card:hover,
+.card:active {
     height: 500px;
 }
 
