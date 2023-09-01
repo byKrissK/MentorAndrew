@@ -233,6 +233,7 @@ h2 {
         position: relative;
         width: 300px;
         height: 200px;
+        padding: 1em 1.5em;
         transition: 1s;
         ;
     }
@@ -243,6 +244,6 @@ h2 {
     }
 
     .content {
-        width: 300px;
+        max-width: 300px;
     }
 }
